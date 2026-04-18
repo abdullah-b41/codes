@@ -1,0 +1,1 @@
+{"name":"Local: mario","url":"/workspaces/177642237/mario-less/mario.c","tests":[{"id":1771389064816,"input":"5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/177642237/mario-less/mario.c","group":"local","local":true}

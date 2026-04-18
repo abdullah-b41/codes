@@ -1,0 +1,1 @@
+{"name":"Local: 22","url":"/Users/abdullahalnafi/Desktop/C/c_course_practise/array/22.c","tests":[{"id":1776308152221,"input":"3\n4 7 10\n3\n10 5 4","output":"4 5 7 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abdullahalnafi/Desktop/C/c_course_practise/array/22.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: cash","url":"/workspaces/177642237/cash/cash.c","tests":[{"id":1771392361326,"input":"70","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/177642237/cash/cash.c","group":"local","local":true}

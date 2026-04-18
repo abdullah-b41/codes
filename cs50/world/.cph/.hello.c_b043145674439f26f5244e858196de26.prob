@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"/workspaces/177642237/world/hello.c","tests":[{"id":1771388848106,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/177642237/world/hello.c","group":"local","local":true}
